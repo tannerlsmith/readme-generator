@@ -1,27 +1,27 @@
 # tanner
 
 # description
-adfs
+tanner
 
 # installation
 undefined
 
 # contributing
-asdf
+tanner
 
 # usageInformation
-adf
+tanner
 
 # tests
-asdf
+tanner
 
 # license
-MIT
+apache
 
 # questions
 If you have any questions, contact my email...
-adst
+tanner
 
 # githubUsername
-atnasdf
+tanner
 
