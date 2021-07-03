@@ -2,6 +2,7 @@
 const inquirer = require('inquirer')
 const fs = require('fs')
 const generateMarkdown = require('./utils/generateMarkdown')
+
 // TODO: Create an array of questions for user input
 const questions = [ {
     type: 'input',
@@ -39,7 +40,7 @@ const questions = [ {
     type: 'list', 
     name: 'license',
     message: 'Please select a license.',
-    choices: ['MIT', 'apache', 'GPL']
+    choices: ['MIT', 'apache', 'IBM']
 }
 ];
 // TODO: Create a function to write README file
