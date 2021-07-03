@@ -1,27 +1,27 @@
-# asdf
+# Readme generator
 
 # description
-asdf
+read me generator
 
 # installation
 undefined
 
 # contributing
-asdf
+n/a
 
 # usageInformation
-asdf
+n/a
 
 # tests
-asdf
+n/a
 
 # license
 MIT
 
 # questions
 If you have any questions, contact my email...
-asdf
+tanner.smith@uvm.edu
 
 # githubUsername
-adsf
+tannerlsmith
 
